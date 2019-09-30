@@ -1,6 +1,6 @@
 # Containerize Your Blackbox Tests
 
-This repo is a companion repoistory for a talk I gave at [Test Automation and Digital QA Summit 2019 Raleigh-Durham](https://www.testingmind.com/event/test-automation-and-digital-qa-summit-raleigh-durham-2019/). The slides are available on [Slideshare]().
+This repo is a companion repoistory for a talk I gave at [Test Automation and Digital QA Summit 2019 Raleigh-Durham](https://www.testingmind.com/event/test-automation-and-digital-qa-summit-raleigh-durham-2019/). The slides are available on [Slideshare](https://www.slideshare.net/secret/FUtEBW8Vn8Zg1H).
 
 The code in this repo is really not much more than a hello world container, but included because sometimes a basic example is all that is needed. 
 
